@@ -211,22 +211,22 @@ body {
     }
 
     .swiper1 .slide2 {
-        background-image: url(../image/cover1-mobile.png);
+        background-image: url(../image/cover3-mobile.png);
         background-size: 100% 100%;
     }
 
     .swiper1 .slide3 {
-        background-image: url(../image/cover2-mobile.png);
-        background-size: 100% 100%;
-    }
-
-    .swiper1 .slide4 {
         background-image: url(../image/cover1-mobile.png);
         background-size: 100% 100%;
     }
 
-    .swiper1 .slide5 {
+    .swiper1 .slide4 {
         background-image: url(../image/cover3-mobile.png);
+        background-size: 100% 100%;
+    }
+
+    .swiper1 .slide5 {
+        background-image: url(../image/cover2-mobile.png);
         background-size: 100% 100%;
     }
 
